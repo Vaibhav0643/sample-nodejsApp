@@ -4,7 +4,7 @@ const port = 3000;
 
 app.get("/", (req, res) => {
 	res.json({
-        "message": "Hey Node JS"
+        "message": "Hello from CI/CD Pipeline 🚀"
     });
 });
 
